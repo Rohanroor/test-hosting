@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223788242358",
+    "project_id": "hoody-sfwztt",
+    "storage_bucket": "hoody-sfwztt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223788242358:android:7ed1ddc29ac91f684fdd17",
+        "android_client_info": {
+          "package_name": "com.mycompany.hoody"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrfpuqqBGttwqJON9pOlisYsZhIyLpTgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
